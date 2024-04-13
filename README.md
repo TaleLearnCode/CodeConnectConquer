@@ -1,6 +1,6 @@
 # Code, Connect, Conquer: Masting Serverless and API-Centric Designs
 
-![Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](Thumbnail.jpg)
+![Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](thumbnail.jpg)
 
 ## Elevator Pitch
 
