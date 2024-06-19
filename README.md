@@ -46,7 +46,6 @@ Join us on this enlightening journey as we unravel the intricate tapestry of ser
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
 | [API Conference Berlin 2024](https://apiconference.net/berlin/) | Berlin, Germany | TBA | TBA | TBA | Available Afterwards |
-| [Prairie Dev Con Winnipeg](https://www.prairiedevcon.com/winnipeg.html) | Winnipeg, MB | TBA | TBA | TBA | Available Afterwards |
 
 ## Resources
 There are no additional resources for this presentation.
