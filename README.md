@@ -45,10 +45,14 @@ Join us on this enlightening journey as we unravel the intricate tapestry of ser
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| [API Conference Berlin 2024](https://apiconference.net/berlin/) | Berlin, Germany | October 21-23, 2024 | TBA | TBA | Available Afterwards |
+| [Prairie Dev Con Winnipeg 2024](https://www.prairiedevcon.com/winnipeg.html) | Winnipeg, MB | September 23-24, 2024 | TBA | TBA | Available Afterwards |
+
+Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Code%20Connect%20Conquer) to have Chad present this session at your event.
+=======
 | [API Conference Berlin 2024](https://apiconference.net/berlin/) | Berlin, Germany | TBA | TBA | TBA | Available Afterwards |
 | [Prairie Dev Con Winnipeg](https://www.prairiedevcon.com/winnipeg.html) | Winnipeg, MB | TBA | TBA | TBA | Available Afterwards |
 
 ## Resources
-There are no additional resources for this presentation.
 
-Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Code%20Connect%20Conquer) to have Chad present this session at your event.
+There are no additional resources for this presentation.
