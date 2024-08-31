@@ -39,6 +39,17 @@ Discover the power of serverless computing and API-driven architectures. Learn b
 - **Unlocking the Power of API-Driven Architectures**: Gain insights into API-driven architectures, including design principles, modularity, and interoperability, and their role in modern software development.
 - **Real-World Applications and Case Studies**: Explore real-world applications and case studies showcasing the transformative potential of serverless computing and API-driven architectures in diverse domains.
 
+## Prerequisites
+Here are the prerequisites to attend the presentation “Code, Connect, Conquer: Mastering Serverless and API-Centric Designs”:
+
+- **Basic Understanding of Cloud Computing**: Familiarity with cloud service models (IaaS, PaaS, SaaS) and awareness of cloud providers like AWS, Azure, or Google Cloud.
+- **Fundamentals of Web Development**: Knowledge of HTTP, RESTful APIs, and web services and basic understanding of front-end and back-end development.
+- **Experience with Serverless Technologies** (optional but beneficial): Exposure to serverless platforms like AWS Lambda, Azure Functions, or Google Cloud Functions.
+- **API Design and Development**: Familiarity with API design principles and best practices.
+- **Interest in Modern Software Architectures**: Curiosity about event-driven architectures and microservices and willingness to explore new technologies and paradigms.
+
+These prerequisites will help you get the most out of the session and fully grasp the concepts discussed. Are you excited about diving into serverless and API-centric designs?
+
 ## Presentations
 
 | Event | Location | Date | Time | Room | Downloads |
