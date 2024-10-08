@@ -3,21 +3,23 @@
 # Code, Connect, Conquer: Mastering Serverless and API-Centric Designs
 
 ## Abstract
-In today’s rapidly evolving landscape of cloud computing and software architecture, serverless computing and API-driven architectures are transformative forces driving efficiency, scalability, and innovation. This session explores these intertwined concepts’ core principles, benefits, and practical applications.
+Join us on a journey through the Viking village of Cloudheim to explore the transformative power of serverless computing and API design architectures. Led by Eirik the Enlightened and Bjorn the Bold, we will illustrate how these technologies enable agility, scalability, and cost-effectiveness.
 
-We begin by defining serverless computing and tracing its evolution from traditional server-based models. Discover the manifold benefits it offers, from seamless scalability and cost-effectiveness to reduced operational overhead and accelerated time-to-market. We will dissect the critical components of serverless architecture, including Functions as a Service (FaaS), Backend as a Service (BaaS), and event-driven paradigms.
+Discover how serverless computing reduces operational overhead and accelerates time-to-market. Learn about serverless architectures' key components and benefits, including event-driven paradigms and seamless scalability.
 
-Next, we illuminate the pivotal role of API-driven architectures in modern software development, emphasizing their modularity, reusability, and interoperability. Learn about API design principles, the significance of API gateways, and real-world examples showcasing their transformative potential in diverse domains.
+Understand the role of API design in modern software development, focusing on modularity, reusability, and interoperability. We will cover API design principles, the importance of API gateways, and real-world examples showcasing their transformative potential.
 
-Throughout the session, we will navigate the intricate challenges and considerations, from cold start latency and vendor lock-in to security implications and monitoring complexities. Drawing from practical insights and future trends, we will anticipate the continued evolution and intersection of these paradigms with emerging technologies.
-
-Join us on this enlightening journey to unravel the intricate tapestry of serverless computing and API-driven architectures, empowering you to harness their full potential in your software endeavors.
+We will also address challenges such as cold start latency, vendor lock-in, security, and monitoring. Gain practical insights and anticipate future trends in serverless computing and API design.
 
 ## Short Abstract
-Explore the transformative power of serverless computing and API-driven architectures in modern software development. Learn about serverless benefits like scalability and cost-effectiveness, and key components such as FaaS and BaaS. Understand API design principles, gateways, and real-world applications. Address challenges like cold start latency and security. Join us to harness the full potential of these technologies in your projects.
+Explore the power of serverless computing and API design through the Viking village of Cloudheim. Learn how these technologies enable agility, scalability, and cost-effectiveness. Understand key components, benefits, and best practices. Address challenges like cold start latency, vendor lock-in, and security. Gain practical insights and anticipate future trends to harness their full potential in your projects.
 
 ## Elevator Pitch
-Discover the power of serverless computing and API-driven architectures. Learn benefits, design principles, and real-world applications.
+Explore serverless computing and API design to boost agility, scalability, and cost-effectiveness. Learn best practices and tackle key challenges.
+
+Join Eirik the Enlightened and Bjorn the Bold in Cloudheim to master serverless computing and API design. Boost agility, scalability, and efficiency!
+
+Embark on a journey with Eirik the Enlightened and Bjorn the Bold in Cloudheim. Discover the power of serverless computing and API design!
 
 # Type
 - 45/60/75-minute session
@@ -43,7 +45,7 @@ Discover the power of serverless computing and API-driven architectures. Learn b
 Here are the prerequisites to attend the presentation “Code, Connect, Conquer: Mastering Serverless and API-Centric Designs”:
 
 - **Basic Understanding of Cloud Computing**: Familiarity with cloud service models (IaaS, PaaS, SaaS) and awareness of cloud providers like AWS, Azure, or Google Cloud.
-- **Fundamentals of Web Development**: Knowledge of HTTP, RESTful APIs, and web services and basic understanding of front-end and back-end development.
+- **Fundamentals of Web Development**: Knowledge of HTTP, RESTful APIs, and web services and basic front-end and back-end development understanding.
 - **Experience with Serverless Technologies** (optional but beneficial): Exposure to serverless platforms like AWS Lambda, Azure Functions, or Google Cloud Functions.
 - **API Design and Development**: Familiarity with API design principles and best practices.
 - **Interest in Modern Software Architectures**: Curiosity about event-driven architectures and microservices and willingness to explore new technologies and paradigms.
@@ -54,13 +56,10 @@ These prerequisites will help you get the most out of the session and fully gras
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [API Conference Berlin 2024](https://apiconference.net/berlin/) | Berlin, Germany | October 21-23, 2024 | TBA | TBA | Available Afterwards |
-| [Prairie Dev Con Winnipeg 2024](https://www.prairiedevcon.com/winnipeg.html) | Winnipeg, MB | September 23-24, 2024 | TBA | TBA | Available Afterwards |
+| [API Conference Berlin 2024](https://apiconference.net/berlin/) | Berlin, Germany | October 23, 2024 | 17:00 CEST | TBA | [Slides](EventMaterials\CodeConnectConquer-APIConBerlin2024.pdf) |
+| [Prairie Dev Con Winnipeg 2024](https://www.prairiedevcon.com/winnipeg.html) | Winnipeg, MB | September 23, 2024 | 11:00 AM CDT | A4 | [Slides](EventMaterials\CodeConnectConquer-PDCWinnipeg2024.pdf) |
 
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Code%20Connect%20Conquer) to have Chad present this session at your event.
-=======
-| [API Conference Berlin 2024](https://apiconference.net/berlin/) | Berlin, Germany | TBA | TBA | TBA | Available Afterwards |
-| [Prairie Dev Con Winnipeg](https://www.prairiedevcon.com/winnipeg.html) | Winnipeg, MB | TBA | TBA | TBA | Available Afterwards |
 
 ## Resources
 
