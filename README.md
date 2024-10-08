@@ -56,8 +56,8 @@ These prerequisites will help you get the most out of the session and fully gras
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [API Conference Berlin 2024](https://apiconference.net/berlin/) | Berlin, Germany | October 23, 2024 | 17:00 CEST | TBA | [Slides](EventMaterials\CodeConnectConquer-APIConBerlin2024.pdf) |
-| [Prairie Dev Con Winnipeg 2024](https://www.prairiedevcon.com/winnipeg.html) | Winnipeg, MB | September 23, 2024 | 11:00 AM CDT | A4 | [Slides](EventMaterials\CodeConnectConquer-PDCWinnipeg2024.pdf) |
+| [API Conference Berlin 2024](https://apiconference.net/berlin/) | Berlin, Germany | October 23, 2024 | 17:00 CEST | TBA | [Slides](EventMaterials/CodeConnectConquer-APIConBerlin2024.pdf) |
+| [Prairie Dev Con Winnipeg 2024](https://www.prairiedevcon.com/winnipeg.html) | Winnipeg, MB | September 23, 2024 | 11:00 AM CDT | A4 | [Slides](EventMaterials/CodeConnectConquer-PDCWinnipeg2024.pdf) |
 
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Code%20Connect%20Conquer) to have Chad present this session at your event.
 
