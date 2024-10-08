@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Blacksmiths.Functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7247",
+      "launchBrowser": false
+    }
+  }
+}

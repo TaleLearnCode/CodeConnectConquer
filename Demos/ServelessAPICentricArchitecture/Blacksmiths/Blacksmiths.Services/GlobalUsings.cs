@@ -1,0 +1,9 @@
+﻿global using Cloudheim.Blacksmiths.Armaments.Documents;
+global using Cloudheim.Blacksmiths.Armaments.Extensions;
+global using Cloudheim.Blacksmiths.Armaments.Requests;
+global using Cloudheim.Blacksmiths.Armaments.Responses;
+global using Cloudheim.Blacksmiths.Documents;
+global using Cloudheim.Common.Documents;
+global using Cloudheim.Common.Exceptions;
+global using Microsoft.Azure.Cosmos;
+global using System.Text.Json.Serialization;

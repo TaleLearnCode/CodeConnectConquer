@@ -1,0 +1,9 @@
+﻿global using Cloudheim.Blacksmiths.Armaments;
+global using Cloudheim.Blacksmiths.Armaments.Requests;
+global using Cloudheim.Blacksmiths.Armaments.Responses;
+global using Cloudheim.Common.Exceptions;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.Azure.Functions.Worker;
+global using Microsoft.Extensions.Logging;
+global using System.Text.Json;
